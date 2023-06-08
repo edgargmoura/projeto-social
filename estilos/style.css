@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+
+
+body {
+    background: url('/imagens/fundo-madeira.jpg') center fixed;
+    
+}
+
+main {
+    background: url('/imagens/frame-iphone.png') center center no-repeat fixed;
+    height: 900px;
+}
+
+
+
+
+/*a > img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 96.5vw;
+    margin-bottom: 20px;  
+}*/
+
+
+
+
+
